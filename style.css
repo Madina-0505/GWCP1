@@ -1,0 +1,70 @@
+*{
+  margin:10px;
+}
+
+body {
+font-family: "Times New Roman", Times, serif;
+text-align: center;
+color: #D94929;
+ background-color: #aadee4; 
+}
+
+h1 {
+  background-color: #F29B88;
+  color: #8C7EBF;
+  padding-top: 1em;
+  padding-bottom:1em;
+}
+.hobby{
+  color: #8C7EBF;
+}
+#drawing{
+  border-radius:10%;
+  }
+#girl{
+   border-radius:10%;
+}
+
+main {
+  text-align: center; 
+  margin-top:0;
+  margin-bottom:0;
+  margin-right:20%;
+  margin-left:20%;
+}
+
+
+p {
+  font-size: 1.2em;
+  text-align: left; 
+}
+/* STYLE IMAGES */
+img {
+max-width: 45%;
+max-height: 50%;
+ border-radius: 25%;
+  border: 3px solid white;
+  margin-bottom:2em;
+}
+/* STYLE NAV BAR */
+ul{
+  list-style-type:none;
+  background-color:#F29B88;
+  overflow:hidden;
+  padding: 1em;
+}
+
+li{
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+  color: #8C7EBF;
+  font-size: 1.3em;
+  padding:1em;
+}
+
+li a:hover {
+  background-color:#F2BEA0
+}
